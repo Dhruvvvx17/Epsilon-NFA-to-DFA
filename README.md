@@ -13,11 +13,11 @@ Input format:
   
   `transition of state-1 on symbol-2`
   
-  `.`
+  .
   
-  `.`
+  .
   
-  `.`
+  .
   
   `tranistion of state-1 on symbol-n`
   

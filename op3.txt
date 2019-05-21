@@ -1,0 +1,13 @@
+STATE TRANSITION TABLE
+     |   0    1  
+-----+------------
+  A  |   B    C  
+  B  |   B    D  
+  C  |   B    C  
+  D  |   B    C  
+
+Where the states are: 
+A : 01247 
+B : 1234678 
+C : 124567 
+D : 1245679 

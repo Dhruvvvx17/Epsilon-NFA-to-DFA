@@ -1,0 +1,13 @@
+STATE TRANSITION TABLE
+     |   0    1    2  
+-----+-----------------
+  A  |   A    B    A  
+  B  |   A    C    A  
+  C  |   D    D    D  
+  D  |   D    D    D  
+
+Where the states are: 
+A : 012 
+B : 12 
+C : 2 
+D : dead state 

@@ -1,0 +1,17 @@
+STATE TRANSITION TABLE
+     |   0    1  
+-----+------------
+  A  |   B    C  
+  B  |   C    D  
+  C  |   C    C  
+  D  |   E    F  
+  E  |   C    C  
+  F  |   C    C  
+
+Where the states are: 
+A : 0 
+B : 1 
+C : dead state 
+D : 23479 
+E : 569 
+F : 869 

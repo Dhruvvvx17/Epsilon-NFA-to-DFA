@@ -1,0 +1,17 @@
+STATE TRANSITION TABLE
+     |   0    1  
+-----+------------
+  A  |   B    C  
+  B  |   B    D  
+  C  |   C    E  
+  D  |   B    F  
+  E  |   B    D  
+  F  |   B    F  
+
+Where the states are: 
+A : 0 
+B : 12 
+C : 2 
+D : 01 
+E : 1 
+F : 012 
